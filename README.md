@@ -1,7 +1,7 @@
 
 - 👋 Hi, I'm Herilala-Rakotonasolo - Web Developer (php - Laravel)
 - 👀 I am interested in web development. Passionate about new technology. Laravel Fan
-- 🌱 I am currently learning Laravel since 2019
+- 🌱 I am currently learning Laravel.
 - 💞️ I'm looking to collaborate on a project.
 
 <!---

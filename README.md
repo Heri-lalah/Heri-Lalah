@@ -1,7 +1,6 @@
 
 - 👋 Hi, I'm Heri-Lalah - Web Developer (php - Laravel - Vuejs)
 - 👀 I am interested in web development. Passionate about new technology. Laravel Fan
-- 🌱 I am currently learning Laravel.
 - 💞️ I'm looking to collaborate on a project.
 
 <!---

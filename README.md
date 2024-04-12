@@ -1,5 +1,5 @@
 
-- 👋 Hi, I'm Heri-Lalah - Web Developer (php - Laravel - Vuejs)
+- 👋 Hi, I'm Heri-Lalah - Web Developer (PHP - Laravel - Reactjs)
 - 👀 I am interested in web development. Passionate about new technology. Laravel Fan
 - 💞️ I'm looking to collaborate on a project.
 
